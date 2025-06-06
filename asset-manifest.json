@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/rayssar9i/pagina-olamundo/static/css/main.b82d10fe.css",
+    "main.js": "/rayssar9i/pagina-olamundo/static/js/main.1e636a66.js",
+    "static/js/453.3b679112.chunk.js": "/rayssar9i/pagina-olamundo/static/js/453.3b679112.chunk.js",
+    "static/media/logo.svg": "/rayssar9i/pagina-olamundo/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/rayssar9i/pagina-olamundo/index.html",
+    "main.b82d10fe.css.map": "/rayssar9i/pagina-olamundo/static/css/main.b82d10fe.css.map",
+    "main.1e636a66.js.map": "/rayssar9i/pagina-olamundo/static/js/main.1e636a66.js.map",
+    "453.3b679112.chunk.js.map": "/rayssar9i/pagina-olamundo/static/js/453.3b679112.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b82d10fe.css",
+    "static/js/main.1e636a66.js"
+  ]
+}
