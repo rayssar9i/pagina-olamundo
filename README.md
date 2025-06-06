@@ -1,4 +1,4 @@
-# 🌸 Página com Corações
+# 🌸 Página Olá mundo
 
 Este é um projeto React simples que exibe corações animados por toda a página.
 
